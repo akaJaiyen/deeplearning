@@ -2,7 +2,6 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_NOTEBOOK_URL_HERE)
 
-(อย่าลืมแทนที่ `YOUR_NOTEBOOK_URL_HERE` ด้วยลิงก์ Colab ของคุณ)
 
 ## 📖 คำอธิบายโปรเจกต์ (Project Description)
 
@@ -127,3 +126,4 @@
 * **Data Handling:** Pandas, Scikit-learn
 * **Visualization:** Matplotlib, Seaborn
 * **Utilities:** Kaggle API, NumPy
+
