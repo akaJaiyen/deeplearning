@@ -110,8 +110,8 @@
 
 * **Validation Accuracy: ~89-90%**
 
+<img width="1156" height="547" alt="image" src="https://github.com/user-attachments/assets/0fc36b0b-2d1b-4c76-b9b0-b86a207c0017" />
 
-*(แทรกรูปกราฟผลลัพธ์ของคุณที่นี่ - รูปที่ 2 ที่คุณส่งมา)*
 
 จากกราฟ:
 * **กราฟ Loss (ด้านขวา):** `Training Loss` (สีฟ้า) และ `Validation Loss` (สีส้ม) ลดลงไปในทิศทางเดียวกัน ซึ่งเป็นสัญญาณที่ดีว่าโมเดลกำลัง "เรียนรู้เพื่อทำความเข้าใจ" (Generalizing) ไม่ใช่ "ท่องจำ" (Overfitting)
@@ -126,5 +126,6 @@
 * **Data Handling:** Pandas, Scikit-learn
 * **Visualization:** Matplotlib, Seaborn
 * **Utilities:** Kaggle API, NumPy
+
 
 
