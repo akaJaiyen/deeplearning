@@ -1,6 +1,6 @@
 # 🦋 โมเดลจำแนกสายพันธุ์ผีเสื้อ (Butterfly Species Classification)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_NOTEBOOK_URL_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([YOUR_NOTEBOOK_URL_HERE](https://colab.research.google.com/drive/11BL48hsZnMJmIY1ETgTHlauv-aSQlJRO?usp=sharing))
 
 
 ## 📖 คำอธิบายโปรเจกต์ (Project Description)
@@ -126,4 +126,5 @@
 * **Data Handling:** Pandas, Scikit-learn
 * **Visualization:** Matplotlib, Seaborn
 * **Utilities:** Kaggle API, NumPy
+
 
